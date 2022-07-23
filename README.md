@@ -1,4 +1,4 @@
-# Recon-Automation-Domain-Finder
+# Recon-Automation-Sub-Domain-Finder
 This is a bash shell script file for Recon automation of web domains.
 HOW TO INSTALL :
 For Linux run the following commands :
